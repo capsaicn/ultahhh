@@ -1,0 +1,41 @@
+body{
+
+    margin: 0;
+  
+    padding: 16px;
+  
+    background: url('abc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  
+  }
+  
+  .birthday-card{
+  
+    margin: 40px auto;
+  
+    padding: 16px;
+  
+    max-width: 300px;
+  
+    background-color: #fff;
+  
+    text-align: center;
+  
+    text-transform: uppercase;
+  
+    box-shadow: 0 24px 40px -8px #000000;
+  
+  }
+  
+  .birthday-card img{
+  
+    width: 100%;
+  
+    
+  
+  }
+  
+  
